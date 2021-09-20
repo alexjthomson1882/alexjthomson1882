@@ -11,8 +11,8 @@ I've been programming since 2013, and I'm almost completely self-taught. My main
 [dnSpy](https://github.com/dnSpy/dnSpy) | 
 [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/) | 
 [WinSCP](https://winscp.net/eng/index.php) | 
-[Atom](https://atom.io/) | 
-[Cheat Engine](https://www.cheatengine.org/) | 
+[Atom](https://github.com/atom/atom) | 
+[Cheat Engine](https://github.com/cheat-engine/cheat-engine/) | 
 [Wireshark](https://www.wireshark.org/) | 
 [Packet Sender](https://github.com/dannagle/PacketSender)
 
