@@ -1,5 +1,5 @@
 ### :loudspeaker: About Me
-I work as a software developer. Outside of work I usually develop games and write mods/hacks for games I own. Most of my projects are private since I don't want other people using some of the mods/hacks I've written online.
+I work as a software developer. Outside of work, I develop games and mods for games I own. I'm facinated with game security and bypassing anti-cheat systems. Most of my repos/projects are private since I don't want certain mods I've written to be used by people in any online games.
 
 I've been programming since 2013, and I'm almost completely self-taught. I mainly use C# and Java, but I also know Lua, JavaScript, Python, C++, and PHP.
 
