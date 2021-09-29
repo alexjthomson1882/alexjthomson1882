@@ -1,7 +1,7 @@
 ### :loudspeaker: About Me
-I work as a software developer. Outside of work, I develop games and mods for games I own. I'm facinated with game security and bypassing anti-cheat systems. Most of my repos/projects are private since I don't want certain mods I've written to be used by people in any online games.
+I'm a software developer with a fascination towards bypassing anti-cheat and security systems for games. I've kept lots of my projects/repos private since they contain mods I've written that could be used in online games. Contact me if you have any questions.
 
-I've been programming since 2013, and I'm almost completely self-taught. I mainly use C# and Java, but I also know Lua, JavaScript, Python, C++, and PHP.
+I've been programming since 2013, and I'm almost completely self-taught; I mainly use C# and Java, but I'm also familiar with Lua, JavaScript, Python, C++, and PHP.
 
 ### :computer: Software
 [Visual Studio](https://visualstudio.microsoft.com/) | 
