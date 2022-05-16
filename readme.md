@@ -73,7 +73,7 @@ My journey into software development began in 2013 while in secondary education 
 
 # :pushpin: Social
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](alexjthomson1882@gmail.com) <!-- gmail -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() <!-- linked in -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexjthomson1882/) <!-- linked in -->
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexjthomson1882) <!-- github -->
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@alexjthomson1882) <!-- replit -->
 [![QuackyBoi#0001](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg) <!-- discord -->
