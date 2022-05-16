@@ -1,4 +1,4 @@
-[![alexjthomson1882 GitHub Banner](./Assets/GitHubBanner.png)](https://github.com/alexjthomson1882)
+[![alexjthomson1882 GitHub Banner](./Assets/Banner.png)](https://github.com/alexjthomson1882)
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) <!-- java -->
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) <!-- csharp -->
