@@ -26,6 +26,7 @@ My journey into software development began in 2013 while in secondary education 
 <!-- web development -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) <!-- html5 -->
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <!-- css3 -->
+![nginx](https://img.shields.io/badge/nginx-089404?style=flat&logo=nginx&logoColor=white) <!-- nginx -->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) <!-- php -->
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) <!-- react -->
 ![AngularJS](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) <!-- angular -->
