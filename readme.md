@@ -48,7 +48,6 @@ My journey into software development began in 2013 while in secondary education 
 
 <!-- operating systems -->
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org/title/installation_guide) <!-- arch -->
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/) <!-- ubuntu -->
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.com/) <!-- rpi -->
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)](https://www.arduino.cc/) <!-- arduino -->
 <br>
@@ -82,7 +81,7 @@ My journey into software development began in 2013 while in secondary education 
 
 # :computer: Workstation Specs
 ##### Development Rig
-[![](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/windows-11) <!-- windows 11 -->
+[![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://wiki.archlinux.org/title/installation_guide) <!-- arch linux -->
 ![](https://img.shields.io/badge/RYZEN_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) <!-- cpu -->
 ![](https://img.shields.io/badge/RTX2060S-76B900?style=for-the-badge&logo=nvidia&logoColor=white) <!-- gpu -->
 <br>
